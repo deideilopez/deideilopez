@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deideilopez
-- 👀 I’m interested in Full Stack Development and Web3
-- 🌱 I’m currently learning Full Stack Development under Zuitt 
-- 💞️ I’m looking to collaborate on SaaS and Web3 Projects
+- 👀 I’m interested in Full Stack Development and UI/UX Design
+- 🌱 I’m finished a Full Stack Developmen Bootcamp under Zuitt
+- 💞️ I’m looking to collaborate on SaaS Projects
 - 📫 How to reach me: deideimlopez@gmail.com / Twitter: @deideixtech
 
 <!---
